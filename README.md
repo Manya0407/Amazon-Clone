@@ -23,7 +23,7 @@ This project is a simple replica of the Amazon homepage using only HTML and CSS.
 
 **Screenshots** 📸
 
-Add screenshots of your project here to showcase its design.
+![Amazon](amazonss.png)
 
 **Future Enhancements**🚧
 
